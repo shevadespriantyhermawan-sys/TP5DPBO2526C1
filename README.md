@@ -2,16 +2,12 @@
 
 Tugas Praktikum 5 Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO).
 
-Janji 
-
-Saya Sheva Desprianty Hermawan dengan NIM 2511645 mengerjakan TP 3 dalam mata kuliah desain pemrograman berorientasi objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Amin 
-
 
 Program ini mengelola data musisi Xdinary Heroes (`People`) berbasis GUI Java Swing yang terintegrasi penuh dengan database **MySQL** melalui **JDBC**, menggantikan sistem penyimpanan sementara `ArrayList` dengan persistensi data permanen serta dilengkapi validasi input dan konfirmasi keamanan data.
 
 ## Janji
 
-Saya Sheva Desprianty Hermawan dengan NIM [Isi NIM Anda] mengerjakan Tugas Praktikum 5 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Sheva Desprianty Hermawan dengan NIM [2511645] mengerjakan Tugas Praktikum 5 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Struktur Folder
 
